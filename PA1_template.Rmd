@@ -172,4 +172,6 @@ g + geom_line() + facet_grid (day~.) +
 ### Comment
 
 The visualizations shows slight differences in the step patterns throughout the average daily intervals. Weekdays show a large spike in early morning which could coincide with people walking to work/school. While step counts on weekends are more consistent throughout the day.
-# The end
+
+
+# The end of the project
